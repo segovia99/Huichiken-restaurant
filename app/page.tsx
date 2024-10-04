@@ -1,8 +1,10 @@
-import Navbar from "./components/navbar";
+import MenuSection from "./components/menu-section";
 
 export default function Home() {
   return (
-    <Navbar/>
+    <>
+    <MenuSection/>
+    </>
     
   );
 }
