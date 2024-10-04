@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "Menu dos piezas",
+        "description": "Pollo frito",
+        "price": "5.25",
+        "img": "https://cdn-menu-us-east-1.tillster.com/pc-sv/fa8a65b7-7aed-4a0a-af5e-bf8261c8c4da.png"
+    },
+    {
+        "id": 2,
+        "title": "Menu Super",
+        "description": "Pollo frito",
+        "price": "8.25",
+        "img": "https://cdn-menu-us-east-1.tillster.com/pc-sv/8f524ec8-c687-43a4-8688-af3cddf5bb19.png"
+    },
+    {
+        "id": 1,
+        "title": "Menu Huichiken",
+        "description": "Pollo frito",
+        "price": "5.25",
+        "img": "https://cdn-menu-us-east-1.tillster.com/pc-sv/a089f4a6-c3c1-4570-8bfa-78fdf716272c.png"
+    },
+    {
+        "id": 2,
+        "title": "Banquete de alitas",
+        "description": "Pollo frito",
+        "price": "9.50",
+        "img": "https://cdn-menu-us-east-1.tillster.com/pc-sv/cbe9c106-1329-49da-838c-e134725e8b8e.png"
+    },
+    {
+        "id": 2,
+        "title": "Banquete de alitas",
+        "description": "Pollo frito",
+        "price": "5.25",
+        "img": ""
+    }
+]
